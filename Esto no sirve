@@ -13,39 +13,81 @@
 		"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
 		"info": "",
 		"stations": [{
-                                   "name": "No sirve 1",
+                                   "name": "No sirve 1L1",
 			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			             "url" : "https://1nyaler.screenistream.xyz/stream/172/index.m3u8",
                                "userAgent" : ""
 		 }, {
                               
-                                   "name": "No sirve 2",
+                                   "name": "No sirve DL1",
 			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			             "url" : "https://1nyaler.screenistream.xyz/stream/155/index.m3u8",
+			             "url" : "https://1nyaler.screenistream.xyz/stream/160/index.m3u8",
                                "userAgent" : ""
 		 }, {
                        
-                                   "name": "No sirve 3",
+                                   "name": "No sirve 3DL1",
 			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			             "url" : "https://1nyaler.screenistream.xyz/stream/94/index.m3u8",
                                "userAgent" : ""
 		 }, {
                         
-                                   "name": "No sirve 4",
+                                   "name": "No sirve 4C1",
 			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			             "url" : "https://1nyaler.screenistream.xyz/stream/133/index.m3u8",
                                "userAgent" : ""
 		 }, {
                         
-                                   "name": "No sirve 5",
+                                   "name": "No sirve 5M+",
 			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			             "url" : "https://1nyaler.screenistream.xyz/stream/155/index.m3u8",
                                "userAgent" : ""
+         	 }, {
+                        
+                                   "name": "No sirve D1",
+			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			             "url" : "https://1nyaler.screenistream.xyz/stream/92/index.m3u8",
+                               "userAgent" : ""
+             }, {
+                        
+                                   "name": "No sirve Hy1",
+			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			             "url" : "https://1nyaler.screenistream.xyz/stream/59/index.m3u8",
+                               "userAgent" : ""       
+              }, {
+                        
+                                   "name": "No sirve Hy2",
+			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			             "url" : "https://1nyaler.screenistream.xyz/stream/152/index.m3u8",
+                               "userAgent" : ""  
+                }, {
+                        
+                                   "name": "No sirve Md1",
+			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			             "url" : "https://1nyaler.screenistream.xyz/stream/131/index.m3u8",
+                               "userAgent" : ""    
+                 }, {
+                        
+                                   "name": "No sirve Md1",
+			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			             "url" : "https://1nyaler.screenistream.xyz/stream/171/index.m3u8",
+                               "userAgent" : ""    
+                  }, {
+                        
+                                   "name": "No sirve TNT1",
+			"image": "https://i.ytimg.com/vi/bYL7OBWVOBQ/maxresdefault.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			             "url" : "https://1nyaler.screenistream.xyz/stream/122/index.m3u8",
+                               "userAgent" : ""    
                                                              }]
 		               }]
                                      }
